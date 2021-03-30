@@ -10,3 +10,6 @@
 ## Nurse can send patient alerts message
 ## Nurse can send patient daily tips in video
 ## Produced diagrams for patient's history
+
+[COMP308ProjectPresentation_LipingWu.pdf](https://github.com/lipingwucs/React_HealthCare_WebApp/files/6231861/COMP308ProjectPresentation_LipingWu.pdf)
+
