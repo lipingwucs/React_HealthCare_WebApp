@@ -1,0 +1,28 @@
+.labelRight{
+    font-size: 20px;
+    float: right;
+}
+button{
+    margin-top: 20px;
+}
+form{
+    margin-top: 20px;
+}
+
+.FormFix {
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.form-group .radio-inline { 
+    vertical-align: top; 
+  }
+  
+label {
+    box-align: left;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+    
